@@ -1,0 +1,132 @@
+@media screen and (max-width:1550px) {
+    .textOne{
+        width:950px;
+        height: 100%;
+    }
+    .textOne p{
+        width: auto;
+    }
+    .text{
+        width: 600px;
+    }
+    .text p {
+        width: 350px;
+    }
+    .photo img {
+        width: 650px;
+        height: 384px;
+    }
+    .textTwo {
+        width: 1000px;
+    }
+}
+
+@media screen and (max-width:1420px) {
+    .three-Photo img{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width:1107px) {
+    .text{
+        width: 350px;
+        padding: 35px 35px 35px 35px;
+        height: 100%;
+    }
+    .text p {
+        width: 250px;
+    }
+    .textTwo {
+        width: 900px;
+        height: 100%;
+    }
+    .textTwo p{
+        width: 800px;
+    }
+    .three-Photo img{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .textOne{
+        width:auto;
+        height: 100%;
+        padding: 20px 20px 20px 20px;
+    }
+    .text{
+        width: auto;
+        height: 100%;
+        padding: 20px 20px 20px 20px;
+    }
+    .text p {
+        width: auto;
+    }
+    .textOne p{
+        width: auto;
+    }
+    .text-Photo{
+        flex-direction: column;
+        align-items: center;
+        row-gap: 15px;
+    }
+    .textTwo {
+        width: auto;
+        padding: 20px 20px 20px 20px;
+    }
+    .textTwo p{
+        width: auto;
+    }
+    .three-Photo{
+        flex-direction: column;
+        align-items: center;
+    }
+    .three-Photo img{
+        width: 750px;
+    }
+}
+
+@media screen and (max-width:755px) {
+    .three-Photo img{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .photo img{
+        width: 500px;
+        height: auto;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .photo img{
+        width: 350px;
+    }
+    .textOne{
+        width:auto;
+        height: 100%;
+        padding: 10px 10px 10px 10px;
+    }
+    .text{
+        width: auto;
+        height: 100%;
+        padding: 10px 10px 10px 10px;
+    }
+    .textTwo {
+        width: auto;
+        padding: 10px 10px 10px 10px;
+    }
+    .three-Photo img{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .photo img {
+        width: 300px;
+    }
+    .three-Photo img{
+        width: 300px;
+    }
+}

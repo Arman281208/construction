@@ -1,0 +1,35 @@
+.cardBlog{
+    background-image: url("../../../public/assets/img/image\ 99.png");
+    width: 632px;
+    height: 586px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.cardBlog-Content{
+    width: 632px;
+    height: 138px;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    box-shadow: 0px 0px 8px 0px #00000026;
+    position: absolute;
+    bottom: 0;
+    padding-left: 24px;
+    padding-top: 16px;
+}
+
+.cardBlog-Content h2{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 42px;
+    text-transform: uppercase;
+    width: 584px;
+    text-align: left;
+}
+
+.cardBlog-Slash{
+    width: 147px;
+    height: 6px;
+    background-color: #FF9933;    
+}

@@ -1,0 +1,46 @@
+.chooseCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 416px;
+    height: 492px;
+    border-radius: 24px;
+    border: 1px solid #fff;
+    padding: 48px 24px 32px 24px;
+    row-gap: 40px;
+    backdrop-filter: blur(32px);
+}
+
+.chooseCard:hover{
+    margin-top: -5px;
+    transition: margin-top 0.5s;
+}
+
+.chooseCard h5 {
+    font-size: 32px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.chooseCard button {
+    width: 368px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 100px;
+    transition: 2s;
+}
+.chooseCard button:hover {
+    background-color: #fff;
+    color: #000;
+}
+.chooseCard img {
+    height: 200px;
+}

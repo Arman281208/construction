@@ -1,0 +1,48 @@
+@media screen and (max-width: 1100px) {
+    .sectionOneTitle p{
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .chooseRow{
+        display: flex;
+        flex-direction: column !important;
+        row-gap: 32px;
+        align-items: center;
+    }
+    .offer .title {
+        padding-left: 150px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .offer .title {
+        padding-left: 100px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .textServices{
+    padding: 0px 0px 0px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .offer .title {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .sectionOneTitle h1{
+        font-size: 65px;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .offer .title {
+        padding-left: 20px;
+    }
+}
+

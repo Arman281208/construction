@@ -1,0 +1,128 @@
+@media screen and (max-width: 1545px) {
+    .card-sectionBlog{
+        width: 1200px;
+    }
+    .cardBlog{
+        width: 500px !important;
+    }
+    .cardBlog-Content{
+        width: 500px !important;
+        border-radius: 0px !important;
+    }
+    .cardBlog-Content h2 {
+        width: 491px !important;
+    }
+}
+
+@media screen and (max-width: 1225px) {
+    .card-sectionBlog{
+        width: 950px;
+    }
+    .cardBlog{
+        width: 350px !important;
+    }
+    .cardBlog-Content{
+        width: 350px !important;
+    }
+    .cardBlog-Content h2 {
+        width: 350px !important;
+        font-size: 25px !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .sectionBlog .container, .container-md, .container-sm {
+        max-width: 991px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .card-sectionBlog{
+        display: flex;
+        justify-content: center;
+    }
+    .sectionCard-One {
+        flex-direction: column;
+
+    }
+    .sectionCard-Two {
+        flex-direction: column;
+    }
+    .card-sectionBlog {
+        height: 100%;
+        padding-bottom: 50px;
+        width: 850px;
+        margin: auto;
+        position: relative;
+        top: 73px;
+    }
+    .sectionBlog{
+        margin-bottom: 2200px;
+    }
+    .cardBlog{
+        width: 632px !important;
+    }
+    .cardBlog-Content{
+        width: 632px !important;
+    }
+    .cardBlog-Content h2{
+        font-size: 30px !important;
+        width: 504px !important;
+    }
+}
+
+@media screen and (max-width: 870px) {
+    .card-sectionBlog{
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .card-sectionBlog{
+        width: 500px;
+    }
+    .cardBlog{
+        width: 400px !important;
+    }
+    .cardBlog-Content{
+        width: 400px !important;
+    }
+    .cardBlog-Content h2{
+        width: 409px !important;
+        font-size: 25px !important;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .card-sectionBlog{
+        width: 350px;
+    }
+    .cardBlog{
+        width: 250px !important;
+    }
+    .cardBlog-Content{
+        width: 250px !important;
+        padding-left: 15px !important;
+    }
+    .cardBlog-Content h2{
+        width: 250px !important;
+        font-size: 18px !important;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .card-sectionBlog{
+        width: 300px;
+    }
+    .cardBlog{
+        width: 250px !important;
+    }
+    .cardBlog-Content{
+        width: 250px !important;
+        padding-left: 15px !important;
+    }
+    .cardBlog-Content h2{
+        width: 250px !important;
+        font-size: 18px !important;
+    }
+}

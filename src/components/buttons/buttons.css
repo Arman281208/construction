@@ -1,0 +1,14 @@
+.buttons{
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    width:137px;
+    height:40px;
+    gap: 8px;
+    border-radius: 100px;    
+    background-color: #FF9933;
+    border: none;
+    color: #FFFFFF;
+}

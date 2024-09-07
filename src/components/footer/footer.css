@@ -1,0 +1,117 @@
+.footer {
+    width: 100%;
+    height: 780px;
+    background-color: #FAFAFA;
+    border: solid 1px #E7E7E7;
+    margin-top: 128px;
+    overflow: hidden;
+}
+
+.logo2 {
+    width: 452px;
+    height: 36px;
+    margin-top: 77px;
+    padding-left: 176px;
+}
+
+.logo-contact-information {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+    margin-top: 24px;
+    padding-left: 176px;
+}
+
+.contact p {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #001336;
+}
+
+.contact h4 {
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #001336;
+}
+
+.contact img {
+    width: 24px;
+    height: 24px;
+}
+
+.location,
+.mail,
+.number,
+.number2,
+.viber,
+.whatsapp {
+    display: flex;
+    gap: 10px;
+}
+
+.social-media{
+    display: flex;
+    gap: 12px;
+    margin-top: 40px;
+    padding-left: 176px;
+}
+
+.instagram,
+.facebook,
+.youtube {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: solid 1px #001336;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 8px 0px #00000026, -2px -2px 8px 0px #00000026;
+    cursor: pointer;
+}
+
+.information2{
+    margin-top: 77px;
+    padding-right: 176px;
+}
+
+.two-information {
+    display: flex;
+    gap: 164px;
+}
+
+.information-content1 ul,
+.information-content2 ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+}
+
+.information-content1 .sale,
+.information-content2 .sale2 {
+    font-family: Verdana;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #001336A6;
+}
+
+.information-content1 ul li,
+.information-content2 ul li {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #001336;
+}

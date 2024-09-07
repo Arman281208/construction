@@ -1,0 +1,55 @@
+.sectionOne {
+    background-image: url("./Background.jpg");
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionOneTitle {
+    text-align: center;
+    color: #fff;
+}
+
+.sectionOneTitle h1 {
+    margin-top: 140px;
+    font-size: 88px;
+}
+
+.sectionOneTitle p {
+    line-height: 22px;
+    padding-top: 24px;
+    width: 1089px;
+    margin: auto;
+}
+
+.services .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 128px;
+}
+
+.textServices {
+    line-height: 22px;
+    margin-top: 28px;
+    padding: 0 128px 64px 128px;
+    text-align: center;
+}
+
+.chooseRow {
+    margin-top: 48px;
+}
+
+.offer {
+    margin-top: 128px;
+}
+
+.offer .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
