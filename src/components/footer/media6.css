@@ -1,0 +1,127 @@
+@media (max-width: 1480px) {
+    .logo2 img{
+        width: 350px;
+    }
+    .contact {
+        padding-left: 120px;
+      }
+      .logo2 {
+        padding-left: 120px;
+      }
+      .social-media {
+        padding-left: 120px;
+      }
+      .information2 {
+        padding-right: 120px;
+      }
+}
+
+@media (max-width: 1280px) {
+    .two-information {
+        gap: 100px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .logo2 img{
+        width: 300px;
+    }
+    .logo2 {
+      padding-left: 50px;
+    }
+    .contact {
+      padding-left: 50px;
+    }
+    .social-media {
+      padding-left: 50px;
+    }
+    .information2 {
+      padding-right: 50px;
+    }
+  }
+
+@media (max-width: 1080px) {
+  .two-information{
+    gap: 50px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .two-information{
+    gap: 20px;
+  }
+}
+  
+  @media (max-width: 991px) {
+    .logo-contact-information {
+      flex-direction: column;
+      align-items: center;
+    }
+    .contact p {
+      width: 300px;
+    }
+    .two-information{
+      margin-top: 50px;
+      padding-left: 150px;
+    }
+    .logo2 {
+      margin-bottom: 20px;
+    }
+    .contact {
+      margin-top: 0;
+    }
+    .social-media {
+      margin-top: 20px;
+    }
+    .information2 {
+      margin-top: 20px;
+    }
+    .logo-contact{
+      padding-left: 120px;
+    }
+    .footer{
+      height: 100%;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .two-information {
+      flex-direction: column;
+      row-gap: 35px;
+    }
+    .information-content1 ul,
+    .information-content2 ul {
+      row-gap: 10px;
+    }
+    .two-information{
+      padding-left: 0px;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .contact p{
+      width: auto;
+    }
+}
+
+  @media (max-width: 400px) {
+    .logo2 img{
+      width: 250px;
+    }
+    .location p{
+      width: 205px !important;
+    }
+}
+
+  @media (max-width: 350px) {
+    .logo2 img{
+      width: 210px;
+    }
+    .information-content1 .sale, .information-content2 .sale2{
+      font-size: 20px;
+    }
+    .information-content1 ul li, .information-content2 ul li {
+      font-size: 14px;
+    }
+}
+

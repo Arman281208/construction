@@ -1,0 +1,62 @@
+@media screen and (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1320px;
+    }
+}
+
+@media screen and (max-width: 1245px) {
+    .servicesCard{
+        width: 350px;
+    }   
+    .cardBodySevice{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 1090px) {
+    .servicesCard{
+        width: 315px;
+    }   
+    .cardBodySevice{
+        width: 315px;
+    }
+    .cardBodySevice span{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .serviceRow{
+        display: flex;
+        flex-direction: column !important;
+        row-gap: 64px;
+        align-items: center;
+    }
+    .servicesCard{
+        width: 400px;
+    }   
+    .cardBodySevice{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .servicesCard{
+        width: 350px;
+    }   
+    .cardBodySevice{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .servicesCard{
+        width: 300px;
+    }   
+    .cardBodySevice{
+        width: 300px;
+    }
+    .cardBodySevice span{
+        font-size: 24px;
+    }
+}

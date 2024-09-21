@@ -1,0 +1,73 @@
+@media screen and (max-width: 1230px) {
+    .style-offerCard {
+        width: 360px;
+    }
+    .offerCard img{
+        width: 330px;
+    }
+    .threeButton {
+        padding-right: 5px;
+    }
+    .information img {
+        width: 20px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .style-offerCard {
+        width: 320px;
+    }
+    .offerCard img{
+        width: 290px;
+    }
+    .threeButton {
+        padding-right: 5px;
+    }
+    .information img {
+        width: 20px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .offerCard {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .style-offerCard {
+        width: 400px;
+    }
+    .offerCard img{
+        width: 368px;
+    }
+    .information img {
+        width: 20px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .style-offerCard {
+        width: 350px;
+    }
+    .offerCard img{
+        width: 320px;
+    }
+    .information img {
+        width: 20px;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .style-offerCard {
+        width: 300px;
+    }
+    .offerCard img{
+        width: 270px;
+    }
+    .information img {
+        width: 20px;
+    }
+    .btn-3 {
+        text-transform: lowercase;
+    }
+}

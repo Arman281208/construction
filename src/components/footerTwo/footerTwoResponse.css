@@ -1,0 +1,82 @@
+@media (max-width: 1200px) {
+    .logo3{
+      padding-right: 350px;
+    }
+  }
+
+@media (max-width: 1100px) {
+  .logo-contact-informationTwo-navigation-Services {
+      gap: 50px;
+  }
+}
+@media (max-width: 1050px) {
+  .logo-contact-informationTwo-navigation-Services {
+      gap: 25px;
+    }
+  }
+
+  @media (max-width: 991px) {
+    .footerTwo{
+      height: 100%;
+    }
+    .logo3 {
+      width: auto;
+    }
+    .logo3 img{
+      width: 250px;
+      height: auto;
+    }
+    .logo-contact-informationTwo-navigation-Services{
+      flex-direction: column;
+      align-items: center;
+    }
+    .navigation-Services {
+      flex-direction: row;
+      gap: 75px;
+    }
+    .logo-contactTwo {
+      flex-direction: row;
+    }
+    .social-mediaTwo{
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 666px) {
+    .logo-contactTwo{
+      flex-direction: column;
+    }
+    .social-mediaTwo{
+      flex-direction: row;
+    }
+  }
+
+  @media (max-width: 615px) {
+    .logo3{
+      padding-left: 200px;
+    }
+  }
+
+  @media (max-width: 350px) {
+    .logo3{
+      padding-left: 175px;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .two-informationTwo-Two{
+      flex-direction: column;
+    }
+    .navigation-Services {
+      flex-direction: column;
+    }
+    .navigation{
+      padding-right: 50px;
+    }
+    .servicesFooter{
+      padding-right: 35px;
+    }
+    .logo-contactTwo{
+      padding-left: 100px;
+    }
+  }

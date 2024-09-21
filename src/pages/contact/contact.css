@@ -1,0 +1,261 @@
+.sectionContact{
+    background-image:url("Rectangle 5 (1).png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 728px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 84px;
+    margin-bottom: 2600px;
+}
+
+.sectionContact h1{
+    font-family: Arial;
+    font-size: 78px;
+    font-weight: 700;
+    line-height: 89.69px;
+    text-align: center;    
+    padding-top: 150px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.form1{
+    width: 1408px;
+    height: 570px;
+    border-radius: 32px;
+    background-color: #FFFFFF;
+    margin-top: 84px;
+}
+
+.form-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-text h1{
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #000;
+    text-transform: uppercase;
+    padding-top: 48px;
+}
+
+.slash2{
+    width: 286px;
+    height: 4px;
+    background-color: #FF9933;
+}
+
+.form-inputs{
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+    margin-top: 48px;
+}
+
+.input-One{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.input-Two{
+    display: flex;
+    justify-content: center;
+}
+
+.input-Two input{
+    width: 727px;
+}
+
+.input-Three{
+    display: flex;
+    justify-content: center;
+}
+
+.input-Three input{
+    width: 727px;
+    height: 129px;
+    padding-bottom: 80px;
+}
+
+.captcha-Btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 225px;
+}
+
+.captcha-Btn button{
+    width: 194px;
+}
+
+.two-informationContent{
+    display: flex;
+    gap: 48px;
+    margin-top: 50px;
+}
+
+.information-Text{
+    width: 680px;
+    height: 790px;
+    border-radius: 32px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 8px 0px #00000026;    
+    padding: 48px 48px;
+}
+
+.information-Text h4{
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;    
+    color: #141414;
+}
+
+.information-Text2{
+    width: 680px;
+    height: 790px;
+    border-radius: 32px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 8px 0px #00000026;    
+    padding: 48px 48px;
+}
+
+.information-Text2 h4{
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;    
+    color: #141414;
+    width: 300px;
+}
+
+.inf-Contact {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0px;
+    margin-top: 48px;
+    padding-left: 25px;
+}
+
+.inf-Contact2{
+    margin-top: 0;
+}
+
+.inf-Contact3{
+    margin-top: 0;
+}
+
+.slash-text{
+    display: flex;
+    gap: 8px;
+}
+
+.slash3{
+    width: 16px;
+    height: 4px;
+    background-color: #FF9933;
+    margin-top: 15px;
+}
+
+.inf-Contact img {
+    width: 24px;
+    height: 24px;
+}
+
+.inf-Contact p{
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;    
+    color: #000000;
+}
+
+.location p{
+    width: 277px;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;    
+    color: #000000;
+}
+
+.two-Slash-Contact-Text{
+    display: flex;
+    justify-content: center;
+    gap: 290px;
+    margin-top: 48px;
+}
+
+#slash-text{
+    margin-top: 48px;
+}
+
+.formsContact-Two{
+    width: 1408px;
+    height: 548px;
+    border-radius: 32px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 8px 0px #00000026;
+    margin-top: 48px;
+}
+
+.Map{
+    width: 1408px;
+    height: 791px;
+    border-radius: 32px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 8px 0px #00000026;
+    margin-top: 75px;
+}
+
+.slash-Text-Map{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+    padding-top: 48px;
+}
+
+.slashOne{
+    width: 16px;
+    height: 4px;
+    background-color: #FF9933;    
+}
+
+.slashTwo{
+    width: 16px;
+    height: 4px;
+    background-color: #FF9933;    
+}
+
+.slash-Text-Map h3{
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000000D9;    
+}
+
+.map-Iframe{
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+.map-Iframe iframe{
+    width: 1312px;
+    height: 619px;
+    border-radius: 12px;
+}

@@ -1,0 +1,291 @@
+@media screen and (max-width: 1550px){
+    .form1{
+        width: 1200px;
+    }
+    .formsContact-Two {
+        width: 1200px;
+    }
+    .Map{
+        width: 1200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .map-Iframe{
+        width: 1000px;
+    }
+}
+
+@media screen and (max-width: 1220px){
+    .form1{
+        width: 970px;
+        margin-top: 0px;
+    }
+    .formsContact-Two {
+        width: 970px;
+    }
+    .Map{
+        width: 970px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 150px;
+    }
+    .map-Iframe{
+        width: 800px;
+    }
+
+    .forms-Contact-information-map{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .information-Text{
+        width: 500px;
+    }
+    .information-Text2{
+        width: 500px;
+    }
+    .sectionContact{
+        margin-bottom: 2550px;
+    }
+}
+
+@media screen and (max-width: 1070px){
+    .information-Text{
+        width: 450px;
+    }
+    .information-Text2{
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .two-informationContent{
+        flex-direction: column;
+    }
+    .information-Text{
+        width: 600px;
+    }
+    .information-Text2{
+        width: 600px;
+    }
+    .sectionContact{
+        margin-bottom: 3400px;
+    }
+}
+
+@media screen and (max-width: 980px){
+    .form1{
+        width: 800px;
+    }
+    .formsContact-Two {
+        width: 800px;
+    }
+    .Map{
+        width: 800px;
+    }
+    .map-Iframe{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .sectionContact{
+        margin-bottom: 3350px;
+  }
+}
+
+@media screen and (max-width: 815px){
+    .form1{
+        width: 650px;
+    }
+    .formsContact-Two {
+        width: 650px;
+    }
+    .two-Slash-Contact-Text {
+        gap: 150px;
+    }
+    .Map{
+        width: 650px;
+    }
+    .map-Iframe{
+        width: 450px;
+    }
+    .input-One input{
+        width: 285px;
+    }
+    .input-Two input{
+        width: 610px;
+    }
+    .input-Three input{
+        width: 610px;
+    }
+}
+
+@media screen and (max-width: 660px){
+    .form1{
+        width: 500px;
+    }
+    .formsContact-Two {
+        width: 500px;
+        height: 925px;
+    }
+    .two-Slash-Contact-Text{
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    .Map{
+        width: 500px;
+    }
+    .map-Iframe{
+        width: 300px;
+    }
+    .input-One input{
+        width: 220px;
+    }
+    .input-Two input{
+        width: 480px;
+    }
+    .input-Three input{
+        width: 480px;
+    }
+    .sectionContact{
+        margin-bottom: 3750px;
+    }
+}
+
+@media screen and (max-width: 615px){
+    .information-Text{
+        width: 500px;
+    }
+    .information-Text2{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 515px){
+    .form1{
+        width: 350px;
+    }
+    .formsContact-Two {
+        width: 350px;
+        height: 925px;
+    }
+    .two-Slash-Contact-Text{
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    .Map{
+        width: 350px;
+    }
+    .map-Iframe{
+        width: 180px;
+    }
+    .input-One input{
+        width: 150px;
+        font-size: 15px;
+    }
+    .input-Two input{
+        width: 340px;
+    }
+    .input-Three input{
+        width: 340px;
+    }
+    .captcha-Btn button{
+        width: 115px;
+        font-size: 13px;
+    }
+    .information-Text{
+        width: 400px;
+        height: 815px;
+    }
+    .information-Text2{
+        width: 400px;
+        height: 815px;
+    }
+    .sectionContact h1{
+        font-size: 65px;
+    }
+    .form-text h1 {
+        font-size: 24px;
+    }
+    .sectionContact{
+        margin-bottom: 3800px;
+    }
+}
+
+@media screen and (max-width: 420px){
+    .information-Text{
+        width: 300px;
+        padding-left: 15px;
+    }
+    .information-Text2{
+        width: 300px;
+        height: 100%;
+        padding-left: 15px;
+    }
+    .information-Text2 h4{
+        font-size: 20px;
+    }
+    .sectionContact h1{
+        font-size: 55px;
+    }
+    .form-text h1 {
+        font-size: 24px;
+    }
+    .sectionContact{
+        margin-bottom: 3750px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .form1{
+        width: 310px;
+    }
+    .formsContact-Two {
+        width: 310px;
+        height: 925px;
+    }
+    .two-Slash-Contact-Text{
+        gap: 50px;
+    }
+    .Map{
+        width: 310px;
+    }
+    .map-Iframe{
+        width: 130px;
+    }
+    .input-One{
+        flex-direction: column;
+        align-items: center;
+    }
+    .input-One input{
+        width: 250px;
+        font-size: 15px;
+    }
+    .input-Two input{
+        width: 250px;
+    }
+    .input-Three input{
+        width: 250px;
+    }
+    .captcha-Btn button{
+        margin-left: -90px;
+    }
+    .sectionContact h1{
+        font-size: 50px;
+    }
+    .form-text h1 {
+        font-size: 24px;
+    }
+    .information-Text2 h4{
+        font-size: 18px;
+        width: 250px;
+    }
+    .sectionContact{
+        margin-bottom: 3750px;
+    }
+}

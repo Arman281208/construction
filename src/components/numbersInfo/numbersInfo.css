@@ -1,0 +1,49 @@
+.numbersHead{
+    display: flex;
+}
+
+.numbersBlock {
+    text-align: center;
+    margin-top: 128px;
+}
+.numbersBlock span{
+    font-size: 64px;
+    color: #FF9933;
+    font-weight: 700;
+}
+.numbersBlock p {
+    font-size: 32px;
+    color: #585858;
+}
+
+@media screen and (max-width: 991px) {
+    .numbersHead{
+        flex-direction: column;
+        padding-left: 250px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .numbersHead{
+        flex-direction: column;
+        padding-left: 150px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .numbersHead{
+        flex-direction: column;
+        padding-left: 100px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .numbersHead{
+        flex-direction: column;
+        padding-left: 50px;
+        align-items: center;
+    }
+}
